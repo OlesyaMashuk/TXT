@@ -1,0 +1,5 @@
+fav_movie Terminator
+fav_TV_series 12 moments of sprin
+fav_food Salad
+fav_season Summer
+countfy Iceland

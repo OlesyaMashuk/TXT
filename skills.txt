@@ -1,0 +1,9 @@
+skill_1 Terminal
+skill_2 GitBash
+skill_3 GitHub
+skill_4 Postman
+skill_5 API
+skill_6 Test case
+skill_7 Charles
+skill_8 DevTools
+skill_9 SQL
