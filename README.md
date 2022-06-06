@@ -8,13 +8,14 @@
 
  2. Клонировать репозиторий TXT на локальный компьютер.
  
- ``` git clone https://github.com/OlesyaMashuk/XML ```
+ ``` git clone https://github.com/OlesyaMashuk/TXT
+ ```
  
- 3. Внутри локального XML создать файл “new.xml”.
+ 3. Внутри локального TXT создать файл “new.txt”.
   
  ```
- cd XML
- touch new.xml 
+ cd TXT
+ touch new.txt 
  ```
 
  4. Добавить файл под гит.
@@ -23,28 +24,26 @@
  
  5. Закоммитить файл.
  
- ``` git commit -m "Добавление файла на внеш.репозиторий" ```
+ ``` git commit -m "commiting TXT file to our rep"
+ ```
  
  6. Отправить файл на внешний GitHub репозиторий.
  
  ``` git push ```
  
- 7. Отредактировать содержание файла “new.xml” - написать информацию о себе (ФИО, возраст, количество домашних животных, будущая желаемая зарплата).
- Всё написать в формате XML.
+ 7. Отредактировать содержание файла “new.txt” - написать информацию о себе 
+ (ФИО, возраст, количество домашних животных, будущая желаемая зарплата). Всё написать в формате TXT..
  ```
- vim new.xml
-<?xml version="1.0" encoding="UTF-8"?>
-<root>
-		<name>Olesya</name>
-		<surname>Mashukova</surname>
-		<age>40</age>
-		<pets>1</pets>
-		<salary>1000</salary>
-</root>
+vim new.txt
+i
+name Olesya
+surname Mashukova
+age 40
+pets 1
+salary 1500
 
 esc :wg enter 
 ```
-
 
 8. Отправить изменения на внешний репозиторий
 ```
