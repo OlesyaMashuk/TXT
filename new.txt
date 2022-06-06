@@ -1,0 +1,6 @@
+name Olesya
+surname Mashukova
+age 40
+pets 1
+salary 1500
+
