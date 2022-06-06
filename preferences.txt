@@ -1,5 +1,5 @@
 fav_movie Terminator
-fav_TV_series 12 moments of sprin
+fav_TV_series 12 moments of spring
 fav_food Salad
 fav_season Summer
-countfy Iceland
+country Iceland
